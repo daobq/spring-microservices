@@ -1,0 +1,1 @@
+insert into user_detail(id, name, birthDate) values (1, 'Dao Bui', current_date());
